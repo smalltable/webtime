@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "WebTime",
+  "description": "Tracker for time spent on sites",
+  "version": "1.0.0",
+  "icons": {"128": "placeholder_128.png"},
+  "browser_action": {
+    "default_icon": "placeholder.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab", "tabs", "notifications"]
+}
