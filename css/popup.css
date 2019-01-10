@@ -1,0 +1,12 @@
+@media screen {
+  html, body {
+    width: 300px;
+  }
+  h1 {
+    font-size: 18pt;
+  }
+  #logo {
+    width: 30px;
+    margin-right: 15px;
+  }
+}
